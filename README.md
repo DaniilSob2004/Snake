@@ -1,3 +1,3 @@
-![image2](https://github.com/DaniilSob2004/Snake/assets/106149184/e2818179-9bb8-49d6-baf0-67d609416f6a)
-![image](https://github.com/DaniilSob2004/Snake/assets/106149184/8f213f81-a1d5-4388-bcb9-321a3df1c80c)
-https://github.com/DaniilSob2004/Snake/assets/106149184/774b121a-8bdf-4d7a-81a5-e73d61b433bb
+![image2](https://github.com/DaniilSob2004/Snake/assets/106149184/36dea58a-c9af-42c7-844d-7f638202f0ea)
+![image](https://github.com/DaniilSob2004/Snake/assets/106149184/321fb403-a157-4e9b-afcb-a3784826b17b)
+https://github.com/DaniilSob2004/Snake/assets/106149184/5efad03b-65d9-4564-8a3c-b3f19a5cc75e
